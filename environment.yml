@@ -16,6 +16,7 @@ dependencies:
   - pymc3
   - arviz
   - corner
+  - scikit-learn
   - pip
   - pip:
     - emcee==3.0rc2
