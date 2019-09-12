@@ -16,6 +16,8 @@ dependencies:
   - arviz
   - corner
   - scikit-learn
+  - pybind11
+  - celerite
   - pip
   - pip:
     - emcee==3.0rc2
